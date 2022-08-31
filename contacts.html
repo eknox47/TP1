@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="author" content="emile-daigneault-1754709">
+    <title>Contacts</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <h1>Contacts</h1>
+    </header>
+    <nav role="menubar">
+        <a href="acceuil.html" role="menuitem" class="menu">Acceuil</a>
+        <a href="education.html" role="menuitem" class="menu">Education</a>
+        <a href="carriere.html" role="menuitem" class="menu">Carrière</a>
+        <a href="realisations.html" role="menuitem" class="menu">Réalisations</a>
+        <a href="contacts.html" role="menuitem" class="menu">Contacts</a>
+        <a href="page-validation.html" role="menuitem" class="menu">Page validation</a>
+         <link rel="preconnect" href="https://fonts.googleapis.com">
+         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+         <link href="https://fonts.googleapis.com/css2?family=Inconsolata&family=Indie+Flower&display=swap"
+             rel="stylesheet">
+
+    </nav>
+    <main>
+        <section>
+            <h2>Contactez-moi!</h2>
+            <form action="get">
+                <div class="contact">
+                    <label for="prenom">*Prénom :</label>
+                    <input type="text" id="prenom" name="prenom" required>
+                    <label for="nom" title="Doit être du texte.">*Nom :</label>
+                    <input type="text" id="nom" name="nom" required>
+                    <label for="telephone">N° Portable :</label>
+                    <input type="tel" id="telephone" name="telephone" placeholder="(514)-123-4567">
+                    <label for="courriel">*Courriel :</label>
+                    <input type="email" pattern=[] id="courriel" name="courriel" title="Doit être une addresse courriel valide." required placeholder="1234@cmaisonneuve.qc.ca">
+                    <label for="commentaire">Commentaires?</label>
+                    <textarea title="Écrivez-moi!" name="commentaire" id="commentaire" cols="30" rows="10"></textarea>
+                    <br>
+                    <input type="submit" value="Envoyer">
+                </div>
+            </form>
+        </section>
+    </main>
+    <footer>
+        <p>Tous droits réservés</p>
+    </footer>
+</body>
+</html>

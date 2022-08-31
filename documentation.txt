@@ -1,0 +1,24 @@
+1. Persona
+
+Le profil d'un Persona qui visiterait mon site
+
+Marie Saint-Jacques, 39 ans, enseignante au primaire.
+Elle est une utilisatrice de base sur le web.
+Marie veut rapidement trouver ce qu'elle cherche sur le web.
+Elle est une femme pressé qui ne soucie que de l'éfficacité du site web.
+Elle s'attend à trouver en un ou deux clics ce qu'elle cherche, sinon elle chengera
+de site. Elle n'aime pas les pop-ups et les publicités aggressantes sur
+les sites qu'elle fréquente.
+
+2. Communication web
+
+1) la palette de couleur que je vais utiliser est très flamboyante et vive.
+   Je crois que ces couleurs demontreront mon enthousiasme et mon énergie.
+
+2) La police que je vais utiliser est car elle démontre que mes services sont 
+   approchable et malgré mon sérieux, la joie et le plaisir.
+
+3) L'échelle typographique que j'emploierai sera plutôt uniforme et de bonne grandeur
+   visible. Cela permet de lire plus facilement le site et par la même occasion donner
+   une apparence moins formel. Une balance qui démontre mon professionalisme et mon humour.
+
