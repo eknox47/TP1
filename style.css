@@ -1,0 +1,77 @@
+body{
+    background-color: whitesmoke;
+}
+main{
+    font-family: 'Inconsolata',monospace;
+}
+h1{
+    font-size: xx-large;
+    text-align: center;
+    background-color: darkred;
+    color: white;
+    border-radius: 1rem;
+    padding: 1rem;
+    max-width: 40%;
+    margin: auto;
+}
+nav{
+    text-align: center;
+    background-color: tomato;
+    margin: 1rem;
+    padding: 1rem;
+    border-radius: 1rem;
+} 
+nav a{
+    text-decoration: none;
+    scroll-behavior: smooth;
+    color: azure;
+    font-size: 1.3rem;
+}
+input, textarea{
+    display: block;
+    margin: auto;
+    text-align: center;
+    padding: 0.5rem;
+}
+label{
+    display: block;
+    text-align: center;
+    padding: 0.5rem;
+}
+h2{
+    text-align: center;
+    padding: 0.4rem;
+}
+.main-image{
+    width:720px;
+    padding: 3rem;
+}
+section p{
+    text-align: center;
+}
+.quote{
+    font-family: 'Indie Flower', cursive;
+}
+section {
+    background-color: yellow;
+    font-size: 20px;
+    padding: 0.5rem;
+    border-radius: 1rem;
+}
+.carriere{
+    display: inline-flex;
+}
+.menu{
+    padding: 1rem;
+}
+table{
+    padding: 1rem;
+    border-spacing: 1rem;
+}
+section li{
+    border-spacing: 2rem;
+    margin: 1rem;
+}
+footer p{
+    text-align: center;
+}
